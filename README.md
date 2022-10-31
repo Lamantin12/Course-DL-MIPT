@@ -1,9 +1,12 @@
 Usefull links:
 
+* Origin:
+	https://github.com/girafe-ai/
+	
 * Datasets:
 	https://archive.ics.uci.edu/ml/datasets.php
 
-* Origin:
-	https://github.com/girafe-ai/
+* Books
+	https://ml-handbook.ru/
 
 
