@@ -8,3 +8,4 @@ notMNIST_small/
 notMNIST_small.tar.gz
 untar_notmnist.log
 __pycache__
+data/
